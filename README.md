@@ -1,4 +1,4 @@
-# Sprintwik Application Programming Interfaces.
+# Sprintwik Application Programming Interfaces
 
 * These include the Sprintwik API's required for the Sprintwik project, which can be found here: [GitHub Sprintwik](https://github.com/DragonicDefson/Sprintwik).
 * These API's handle database requests as well as one part of the AES-256 data encryption.
