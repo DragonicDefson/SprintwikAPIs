@@ -1,0 +1,28 @@
+{
+  "name": "sprintwik-data-api",
+  "version": "0.0.1",
+  "description": "Sprintwik Data Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradley Methorst",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "envfile": "^6.14.0",
+    "express": "^4.17.1",
+    "express-pino-logger": "^5.0.0",
+    "express-rate-limit": "^5.2.6",
+    "http": "0.0.1-security",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.3",
+    "mysql": "^2.18.1",
+    "pino": "^6.11.2",
+    "query-string": "^7.0.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {}
+}
